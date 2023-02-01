@@ -1,5 +1,5 @@
 # Tip_calculator
-Coded a basic Tip calculator app completely in HTML, CSS and Vanilla Javascript without using any libraries.
+Coded a basic Tip calculator app completely in HTML, CSS and Vanilla Javascript without using any libraries,
 
 TIP_CALCULATOR DEMO AND PREVIEW :
 
